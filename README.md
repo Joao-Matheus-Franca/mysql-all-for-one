@@ -11,6 +11,6 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=40 alt="MySQL icon"/>
 ## 🧠 Desafios e aprendizados:
 * Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub
-* Colocar em prática os aprendizados sobre o uso do <a href="https://dev.mysql.com/">MySQL</a> para construir queries de busca e manipulação para banco de dados
+* Colocar em prática os aprendizados sobre o uso do <a href="https://dev.mysql.com/">MySQL</a> para construir queries de busca e manipulação para banco de dados relacionais
 ## 👨‍💻 Como executar: 
 👷‍♂️ Seção em manutenção 👷‍♂️
